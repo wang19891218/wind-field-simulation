@@ -4,7 +4,7 @@ A fast and accurate simulation framework for the simulation of nonstationary win
 
 # Code is being cleaned and will be uploaded soon
 
-# Pending Features
+# Working on Features
 Export model
 Support for multiple sklearn SVM models
 Visualization for models with more than 2 features
