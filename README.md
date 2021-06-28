@@ -5,9 +5,18 @@ A fast and accurate simulation framework for the simulation of nonstationary win
 # Code is being cleaned and will be uploaded soon
 
 # Working on Features
+## Webui for simulation 
+## Wavelet transform and Hilbert transform with JS.
+
+# Future features
+Local app
+
+
 Export model
 Support for multiple sklearn SVM models
 Visualization for models with more than 2 features
+
+
 
 Fell free to open an issue if more features are needed
 
